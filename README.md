@@ -172,6 +172,10 @@ Observe as mensagens exibidas no terminal para verificar o comportamento do cach
 
 <img width="994" height="476" alt="image" src="https://github.com/user-attachments/assets/8cb1894f-c488-4b1a-b6f3-a1fbac505923" />
 
+### Supabase
+
+<img width="1082" height="322" alt="image" src="https://github.com/user-attachments/assets/73ffef84-424d-4c8e-a64b-d4d0328a1e29" />
+
 ### Integração com o Redis
 
 <img width="350" height="125" alt="image" src="https://github.com/user-attachments/assets/b2b0c5c8-90d6-4791-b4b8-5bbc4cbf5fae" />
