@@ -78,7 +78,7 @@ sistema-vendas/
 ├── .gitignore
 ├── requirements.txt
 └── README.md
-
+```
 ## Como executar o projeto
 
 ### 1. Instalar as dependências
