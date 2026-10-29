@@ -166,17 +166,15 @@ Observe as mensagens exibidas no terminal para verificar o comportamento do cach
 
 ### Registro de vendas
 
-![Tela de registro de vendas](screenshots/tela-vendas.png)
+<img width="498" height="476" alt="image" src="https://github.com/user-attachments/assets/8da2b072-e057-4df1-a256-8216981dfbfb" />
 
 ### Relatório de vendas
 
-![Relatório de vendas](screenshots/relatorio-vendas.png)
+<img width="994" height="476" alt="image" src="https://github.com/user-attachments/assets/8cb1894f-c488-4b1a-b6f3-a1fbac505923" />
 
 ### Integração com o Redis
 
-![Teste de Cache Hit e Cache Miss](screenshots/teste-cache.png)
-
-> Para exibir as imagens no GitHub, crie a pasta `screenshots` na raiz do projeto e coloque nela as capturas de tela com os nomes indicados acima.
+<img width="350" height="125" alt="image" src="https://github.com/user-attachments/assets/b2b0c5c8-90d6-4791-b4b8-5bbc4cbf5fae" />
 
 ## 10. Vídeo de demonstração
 
